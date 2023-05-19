@@ -1,8 +1,10 @@
 
-import static org.testng.Assert.*;
-import org.testng.annotations.Test;
-import ru.netology.service.CashbackHackService;
 
+package ru.netology.service;
+
+import org.junit.Test;
+
+import static org.junit.Assert.*;
 
 public class CashbackHackServiceTest {
     @Test
